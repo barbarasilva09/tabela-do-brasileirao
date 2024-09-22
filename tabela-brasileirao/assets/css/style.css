@@ -1,0 +1,25 @@
+body{
+    background-color: lavender;
+}
+
+table{
+    margin-left: 350px;
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+
+
+th{
+    border-bottom: black solid 2px;
+    border-top: black solid 2px;
+    padding: 10px;
+    text-align: center;
+}
+td{
+    border-bottom: black solid 2px;
+}
+
+h1{
+    text-align: center;
+}
